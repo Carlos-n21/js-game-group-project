@@ -1,0 +1,102 @@
+const questions = [
+    {
+        question: "What is the capital city of the UK?",
+        options: ["a) Manchester", "b) Edinburgh", "c) London", "d) Cardiff"],
+        answer: "c) London"
+    },
+    {
+        question: "What currency is used in the UK?",
+        options: ["a) Euro", "b) US Dollar", "c) British Pound", "d) Canadian Dollar"],
+        answer: "c) British Pound"
+    },
+    {
+        question: "What is the official language of the UK?",
+        options: ["a) French", "b) German", "c) Spanish", "d) English"],
+        answer: "d) English"
+    },
+    {
+        question: "What side of the road do people drive on in the UK?",
+        options: ["a) Right", "b) Left"],
+        answer: "b) Left"
+    },
+    {
+        question: "What is a common weather stereotype about the UK?",
+        options: ["a) It's always sunny", "b) It's often rainy and cloudy", "c) It's very hot", "d) It's very cold"],
+        answer: "b) It's often rainy and cloudy"
+    },
+    {
+        question: "What is the traditional drink often associated with British culture?",
+        options: ["a) Coffee", "b) Tea", "c) Hot chocolate", "d) Lemonade"],
+        answer: "b) Tea"
+    },
+    {
+        question: "What are the names of the two houses of the UK Parliament?",
+        options: ["a) House of Representatives and Senate", "b) House of Commons and House of Lords", "c) House of Parliament and House of Lords", "d) House of Representatives and House of Commons"],
+        answer: "b) House of Commons and House of Lords"
+    },
+    {
+        question: "What is the name of the UK’s famous clock tower?",
+        options: ["a) Eiffel Tower", "b) Big Ben", "c) Leaning Tower of Pisa", "d) Statue of Liberty"],
+        answer: "b) Big Ben"
+    },
+    {
+        question: "Which UK city is known for its iconic music scene, particularly The Beatles?",
+        options: ["a) Birmingham", "b) Manchester", "c) Liverpool", "d) Glasgow"],
+        answer: "c) Liverpool"
+    },
+    {
+        question: "What is the UK’s national dish?",
+        options: ["a) Spaghetti", "b) Sushi", "c) Tacos", "d) Fish and chips"],
+        answer: "d) Fish and chips"
+    },
+    {
+        question: "What type of government does the UK have?",
+        options: ["a) Absolute Monarchy", "b) Dictatorship", "c) Constitutional Monarchy and Parliamentary Democracy", "d) Republic"],
+        answer: "c) Constitutional Monarchy and Parliamentary Democracy"
+    },
+    {
+        question: "What is the UK’s highest peak?",
+        options: ["a) Snowdon", "b) Ben Nevis", "c) Scafell Pike", "d) Mount Everest"],
+        answer: "b) Ben Nevis"
+    },
+    {
+        question: "What are the four countries that make up the UK?",
+        options: ["a) England, Scotland, Ireland, and Wales", "b) England, Scotland, Wales, and Northern Ireland", "c) England, Wales, Scotland, and Iceland", "d) England, Northern Ireland, Ireland, and Wales"],
+        answer: "b) England, Scotland, Wales, and Northern Ireland"
+    },
+    {
+        question: "What is the national sport of the UK?",
+        options: ["a) Basketball", "b) Football (soccer)", "c) Cricket", "d) Rugby"],
+        answer: "b) Football (soccer)"
+    },
+    {
+        question: "Which river runs through London?",
+        options: ["a) River Nile", "b) River Thames", "c) River Seine", "d) River Amazon"],
+        answer: "b) River Thames"
+    },
+    {
+        question: "What is a common British breakfast?",
+        options: ["a) Pancakes and syrup", "b) Croissants", "c) A full English breakfast", "d) Cereal and milk"],
+        answer: "c) A full English breakfast"
+    },
+    {
+        question: "What is the UK’s national flower?",
+        options: ["a) The tulip", "b) The rose, thistle, daffodil, and shamrock", "c) The sunflower", "d) The daisy"],
+        answer: "b) The rose for England, the thistle for Scotland, the daffodil for Wales, and the shamrock for Northern Ireland"
+    },
+    {
+        question: "What is the most famous university town in the UK?",
+        options: ["a) Cambridge", "b) Oxford", "c) Both", "d) Edinburgh"],
+        answer: "c) Both (Cambridge and Oxford)"
+    },
+    {
+        question: "What is the name of the UK’s traditional Sunday meal?",
+        options: ["a) Sunday stew", "b) Sunday roast", "c) Sunday salad", "d) Sunday pie"],
+        answer: "b) Sunday roast"
+    },
+    {
+        question: "What is the UK’s famous literary festival called?",
+        options: ["a) Sundance Festival", "b) Cannes Festival", "c) Hay Festival", "d) Venice Festival"],
+        answer: "c) Hay Festival"
+    }
+];
