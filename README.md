@@ -69,6 +69,15 @@ Here are the user stories that have been prioritised as "must have":
 
 ### Wireframes
 
+- Mobile view:
+  <img src="">
+  
+- Tablet view:
+  <img src="">
+  
+- Desktop/Laptop view:
+  <img src="">
+
 [Back to top](#top)
 
 ## Design
