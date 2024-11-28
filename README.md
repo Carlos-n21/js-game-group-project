@@ -70,6 +70,7 @@ User Stories and the associated Acceptance Criteria and Tasks were generated usi
 The aim is to produce a minimum viable product (MVP) in the 2.5 days given. The AI-generated user stories were reviewed and edited to be SMART and focused for the delivery of an MVP. A Project Board was set up in GitHub Projects to track project progress. The user stories were prioritised using MoSoCoW based of benefits to users and viability.
 
 Here are the user stories that have been prioritised as "must have":
+- add user stories near the end of Day 3
 
 ### Wireframes
 
@@ -94,9 +95,12 @@ Here are the user stories that have been prioritised as "must have":
 
 
 ## Website Features
+Homepage
+Rules - modal
+Categories
+Quiz page
+Results
 
-Levels
-Results included words per minute
 [Back to top](#top)
 
 ## Responsive Design
@@ -105,6 +109,8 @@ Most of the content is responsive to different screen sizes as it was built usin
 [Back to top](#top)
 
 ## Future Features
+Timer
+Progress Indicator
 
 [Back to top](#top)
 
@@ -136,7 +142,7 @@ The GitHub Copilot extension was also installed in my local client version of MS
 
 The process is as follows:
 1. Login to your GitHub profile.
-2. Go to the [Code Institute Template] (https://github.com/Code-Institute-Org/ci-full-template).
+2. Go to the [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template).
 3. Click **Use this template** and then **Create a new repository**.
 4. Enter the repo name and choose to create from template
 5. Click **Open** with the Gitpod logo to open the Code Institute IDE workspace.
@@ -159,10 +165,16 @@ Validation of HTML/CSS, Lighthouse Audits, Bugs
 [Back to top](#top)
 
 ## Credits
+### Code References
+Many of the features were based on/inspired by examples in the [Code Institute Bootcamp LMS](https://learn.codeinstitute.net/dashboard) on the use of HTML, CSS and Javascript.
+
 ### Content References
-MS Copilot was used to generate much of the content on coping strategies and online resources, which was then reviewed and edited before including into the site.
+MS Copilot was used to generate some of the quiz questions and feedback content, which the team then reviewed and edited before including into the site.
+The UK Quiz logo was generated using Logo.ai, and edited and optimised using Squoosh.
 
 ### Media References
+[Pexels.com](https://www.pexels.com/) for some of the images used in the quiz questions
+Background image TBC
 
 #### Acknowledgements
 Everyone in our WECA group who have been so helpful and supportive leading up to this group project, and
