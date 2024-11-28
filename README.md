@@ -8,8 +8,9 @@ Live site: [Enter Link Here]
 - [User Experience Design](#user-experience-design)
 - [Project Brief](#project-brief)
 - [Users](#users)
-    - [User Stories](#user-stories)
-    - [Wireframes](#wireframes)
+- [Project Plan](#project-plan)
+- [User Stories](#user-stories)
+- [Wireframes](#wireframes)
 - [Design](#design)
     - [Colour Scheme](#colour-scheme)
     - [Typography](#typography)
@@ -59,6 +60,9 @@ And, if possible, track her progress and identify areas where she needs to study
 She's looking for an app that can show diverse, engaging and reliable information.<br>
 Also needs to get feedback about her choices for each question, if right/wrong, allowing her to do further research when the answer is wrong.<br>
 Wishes to be able to test her knowledge in different areas/subjects of the Life in the UK.
+
+## Project Plan
+[Kanban Project Board](https://github.com/users/Carlos-n21/projects/12/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D) on GitHub repo
 
 ### User Stories
 User Stories and the associated Acceptance Criteria and Tasks were generated using Microsoft Copilot. 
